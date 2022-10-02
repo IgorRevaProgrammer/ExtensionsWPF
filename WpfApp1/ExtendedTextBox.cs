@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Media;
 
-namespace WpfApp1
+namespace Extensions
 {
     public class ExtendedTextBox : TextBox
     {
